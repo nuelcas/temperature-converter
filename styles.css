@@ -55,11 +55,11 @@ button {
   margin-top: 20px;
 }
 
-.result-container {
+/* .result-container {
   text-align: center;
   margin-top: 30px;
   font-size: 35px;
-}
+} */
 
 label {
   font-size: 40px;
@@ -92,9 +92,9 @@ span {
     font-size: 1.1rem;
   }
 
-  .result-container {
+/*   .result-container {
     padding-top: 200px;
-  }
+  } */
 }
 
 @media (max-width: 1050px) {
